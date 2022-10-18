@@ -1,5 +1,5 @@
 # BINARY SEARCH
 
 # RUN
-binarysearch.py
+>binarysearch.py
  
