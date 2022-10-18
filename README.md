@@ -1,1 +1,4 @@
-# BinarySearch
+# BINARY SEARCH
+
+# RUN
+binarysearch.py
